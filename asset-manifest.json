@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Code-Craft/static/css/main.b05d896b.css",
+    "main.js": "/Code-Craft/static/js/main.9d07266f.js",
+    "index.html": "/Code-Craft/index.html",
+    "main.b05d896b.css.map": "/Code-Craft/static/css/main.b05d896b.css.map",
+    "main.9d07266f.js.map": "/Code-Craft/static/js/main.9d07266f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b05d896b.css",
+    "static/js/main.9d07266f.js"
+  ]
+}
